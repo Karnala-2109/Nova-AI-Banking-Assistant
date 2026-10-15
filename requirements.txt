@@ -1,0 +1,13 @@
+streamlit==1.65.0
+langchain==1.4.3
+langchain-core==1.6.7
+langchain-community==0.4.2
+langchain-openrouter
+langchain-huggingface
+langchain-text-splitters==1.1.3
+langgraph==1.2.14
+faiss-cpu==1.15.1
+pypdf==6.19.0
+sentence-transformers
+torchvision==0.29.1
+python-dotenv==1.2.4
